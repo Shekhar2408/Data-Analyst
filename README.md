@@ -8,12 +8,14 @@
 I'm a **passionate data analyst** with a knack for turning numbers into actionable insights! 📊 Whether it's **unleashing Python's magic**, crafting beautiful **PowerBI dashboards**, or **solving complex SQL queries** in MySQL, I thrive on transforming raw data into valuable business strategies.
 
 ## Skills
-- **MySQL**: 🛠️ Master of the database realm, slicing and dicing data with SQL queries.
-- **Python**: 🐍 Pythonic wizard, conjuring up data magic with Pandas, NumPy, and Matplotlib.
-- **PowerBI**: 🔮 Creating enchanting visualizations and interactive dashboards that tell stories.
-- **MS Excel**: 📈 Excel ninja, wielding functions and formulas to conquer spreadsheets.
-- **SolidWorks**: 🚀 Engineering virtuoso, sculpting 3D masterpieces for mechanical marvels.
-- **AutoCAD**: 🏗️ Architectural maestro, sketching intricate designs with precision.
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="100" height="100"/>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/PowerBI_Logo.svg" width="100" height="100"/>
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Microsoft-Excel-Logo.png" width="100" height="100"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/solidworks-2019-1.svg" width="100" height="100"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/autocad-2.svg" width="100" height="100"/>
+</div>
 
 ## Projects
 - **Sales Data Odyssey**: Embarked on a journey through sales data with PowerBI, uncovering hidden treasures of insights and forecasts.
