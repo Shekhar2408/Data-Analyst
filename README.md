@@ -13,7 +13,7 @@ DATA ANALYST
 *   ✉️  You can contact me at [shekharwadhawan24@gmail.com](mailto:shekharwadhawan24@gmail.com)
 *   🧠  I'm learning Tableau
 *   🤝  I'm open to collaborating on projects
-*   ⚡  Music and Art Junkie### Skills 
+*   ⚡  Music and Art Junkie
 <img align="right" alt="Coding" width="450" src="https://giffiles.alphacoders.com/212/212413.gif">
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
