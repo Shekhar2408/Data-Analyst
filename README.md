@@ -11,7 +11,7 @@ DATA ANALYST
 
 *   🌍  I'm based in New Delhi
 *   ✉️  You can contact me at [shekharwadhawan24@gmail.com](mailto:shekharwadhawan24@gmail.com)
-*   🧠  I'm learning Power BI, Tablue
+*   🧠  I'm learning AWS
 *   🤝  I'm open to collaborating on projects
 *   ⚡  Music and Art Junkie
 <img align="right" alt="Coding" width="450" src="https://giffiles.alphacoders.com/212/212413.gif">
